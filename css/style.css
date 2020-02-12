@@ -362,10 +362,6 @@ body {
         display: flex;
     }
     
-    .rating-number {
-        display: none;
-    }
-
     .logo {
         margin-bottom: 25px;
     }
