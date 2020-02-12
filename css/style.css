@@ -360,6 +360,11 @@ body {
 
     .header-active {
         display: flex;
+        z-index:2;
+    }
+    
+    .rating-number {
+      z-index:1 ;   
     }
     
     .logo {
